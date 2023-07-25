@@ -27,7 +27,7 @@ Este projeto ainda esta em desenvolvimento e será aprimorado constantemente, po
 
 ## Feito por:
 
-### Gustavo Rosseti.
+### Gustavo Rosseti
 
 ### Linkedin: https://www.linkedin.com/in/gustavorosseti/
 
